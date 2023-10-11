@@ -82,9 +82,9 @@ os.system("clear")
 print  """
  
                      
-\033[1;94mFACEBOOK  ZAIN SARKAR
+\033[1;94mFACEBOOK  ZAIN-SARKAR
                   
-\033[1;92mFB PAGE   ZAIN SARKAR 
+\033[1;92mFB PAGE   ZAIN-SARKAR 
  
 """
  
